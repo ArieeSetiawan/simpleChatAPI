@@ -1,8 +1,8 @@
-#​​Simple Chat API
+# Simple Chat API
 
 Develop simple chat feature so users able to chat each other.
 
-##How To Use (cd server)
+## How To Use (cd server)
 ```
 1. npm install
 2. configure env variable in .env.example file
@@ -10,16 +10,16 @@ Develop simple chat feature so users able to chat each other.
 ----
 If you haven't install nodemon globally you need to run 'npm install nodemon'
 ```
-##How to Run
+## How to Run
 ```
 npm start
 ```
-##How to Test
+## How to Test
 ```
 npm run test
 ```
 
-##Tools
+## Tools
 Language: Javascript
 Framework: Express
 Database: PostgreSQL
