@@ -20,9 +20,9 @@ npm run test
 ```
 
 ## Tools
-Language: Javascript
-Framework: Express
-Database: PostgreSQL
-ORM: Sequelize
-Realtime Infrastructure: Pusher
-Testing: Jest, Supertest
+- Language: Javascript
+- Framework: Express
+- Database: PostgreSQL
+- ORM: Sequelize
+- Realtime Infrastructure: Pusher
+- Testing: Jest, Supertest
